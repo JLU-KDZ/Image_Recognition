@@ -1,0 +1,752 @@
+Epoch_num:  0  training-mean-loss: 0.21609408750385045
+Epoch_num:  0 test_acc: 0.8919
+Epoch_num:  1  training-mean-loss: 0.12352251173742115
+Epoch_num:  1 test_acc: 0.8895
+Epoch_num:  2  training-mean-loss: 0.09903516923822463
+Epoch_num:  2 test_acc: 0.8868
+Epoch_num:  3  training-mean-loss: 0.08818454469367862
+Epoch_num:  3 test_acc: 0.8797
+Epoch_num:  4  training-mean-loss: 0.07226464851014316
+Epoch_num:  4 test_acc: 0.8816
+Epoch_num:  0  training-mean-loss: 0.08230346265807748
+Epoch_num:  0 test_acc: 0.9052
+Epoch_num:  0  training-mean-loss: 0.0749324553674087
+Epoch_num:  0 test_acc: 0.8891
+Epoch_num:  1  training-mean-loss: 0.0557672265060246
+Epoch_num:  1 test_acc: 0.8899
+Epoch_num:  2  training-mean-loss: 0.047272372892242856
+Epoch_num:  2 test_acc: 0.8933
+Epoch_num:  3  training-mean-loss: 0.04660932656668592
+Epoch_num:  3 test_acc: 0.8993
+Epoch_num:  4  training-mean-loss: 0.042639860742958266
+Epoch_num:  4 test_acc: 0.897
+Epoch_num:  0 batch_num:  0  item-loss: 0.06918495893478394
+Epoch_num:  0 batch_num:  20  item-loss: 0.04624177888035774
+Epoch_num:  0 batch_num:  40  item-loss: 0.055684126913547516
+Epoch_num:  0 batch_num:  60  item-loss: 0.007881718687713146
+Epoch_num:  0 batch_num:  80  item-loss: 0.037425342947244644
+Epoch_num:  0 batch_num:  100  item-loss: 0.017763815820217133
+Epoch_num:  0 batch_num:  120  item-loss: 0.060565780848264694
+Epoch_num:  0 batch_num:  140  item-loss: 0.03672931715846062
+Epoch_num: 0   batch_num: 0   item-loss: 0.008942607790231705
+Epoch_num: 0   batch_num: 20   item-loss: 0.011042892001569271
+Epoch_num: 0   batch_num: 40   item-loss: 0.031945742666721344
+Epoch_num: 0   batch_num: 60   item-loss: 0.04845210537314415
+Epoch_num: 0   batch_num: 80   item-loss: 0.012932708486914635
+Epoch_num: 0   batch_num: 100   item-loss: 0.07743805646896362
+Epoch_num: 0   batch_num: 120   item-loss: 0.07780225574970245
+Epoch_num: 0   batch_num: 140   item-loss: 0.0861225426197052
+Epoch_num: 0   batch_num: 160   item-loss: 0.004260241985321045
+Epoch_num: 0   batch_num: 180   item-loss: 0.027765478938817978
+Epoch_num: 0   batch_num: 200   item-loss: 0.07338544726371765
+Epoch_num: 0   batch_num: 220   item-loss: 0.10078534483909607
+Epoch_num: 0   batch_num: 240   item-loss: 0.07053658366203308
+Epoch_num: 0   batch_num: 260   item-loss: 0.039926737546920776
+Epoch_num: 0   batch_num: 280   item-loss: 0.009515520185232162
+Epoch_num: 0   batch_num: 300   item-loss: 0.04481606185436249
+Epoch_num: 0   batch_num: 320   item-loss: 0.05989019572734833
+Epoch_num: 0   batch_num: 340   item-loss: 0.10954544693231583
+Epoch_num: 0   batch_num: 360   item-loss: 0.029630688950419426
+Epoch_num: 0   batch_num: 380   item-loss: 0.09984935075044632
+Epoch_num: 0   batch_num: 400   item-loss: 0.02070700377225876
+Epoch_num: 0   batch_num: 420   item-loss: 0.008142586797475815
+Epoch_num: 0   batch_num: 440   item-loss: 0.054354697465896606
+Epoch_num: 0   batch_num: 460   item-loss: 0.053642548620700836
+Epoch_num: 0   batch_num: 480   item-loss: 0.05182947963476181
+Epoch_num: 0   training-mean-loss: 0.04407409394718707
+Epoch_num: 0   test_acc: 0.897
+Epoch_num: 1   batch_num: 0   item-loss: 0.01006257813423872
+Epoch_num: 1   batch_num: 20   item-loss: 0.015111293643712997
+Epoch_num: 1   batch_num: 40   item-loss: 0.06352448463439941
+Epoch_num: 1   batch_num: 60   item-loss: 0.08677216619253159
+Epoch_num: 1   batch_num: 80   item-loss: 0.04782615974545479
+Epoch_num: 1   batch_num: 100   item-loss: 0.04452187940478325
+Epoch_num: 1   batch_num: 120   item-loss: 0.023588111624121666
+Epoch_num: 1   batch_num: 140   item-loss: 0.004718117881566286
+Epoch_num: 1   batch_num: 160   item-loss: 0.0227114986628294
+Epoch_num: 1   batch_num: 180   item-loss: 0.006958007346838713
+Epoch_num: 1   batch_num: 200   item-loss: 0.10627437382936478
+Epoch_num: 1   batch_num: 220   item-loss: 0.06260545551776886
+Epoch_num: 1   batch_num: 240   item-loss: 0.01963476464152336
+Epoch_num: 1   batch_num: 260   item-loss: 0.018318234011530876
+Epoch_num: 1   batch_num: 280   item-loss: 0.006467406637966633
+Epoch_num: 1   batch_num: 300   item-loss: 0.0075188297778368
+Epoch_num: 1   batch_num: 320   item-loss: 0.08423031121492386
+Epoch_num: 1   batch_num: 340   item-loss: 0.11455021053552628
+Epoch_num: 1   batch_num: 360   item-loss: 0.046138059347867966
+Epoch_num: 1   batch_num: 380   item-loss: 0.10742750018835068
+Epoch_num: 1   batch_num: 400   item-loss: 0.02890430949628353
+Epoch_num: 1   batch_num: 420   item-loss: 0.01575450971722603
+Epoch_num: 1   batch_num: 440   item-loss: 0.011642277240753174
+Epoch_num: 1   batch_num: 460   item-loss: 0.0031944813672453165
+Epoch_num: 1   batch_num: 480   item-loss: 0.029739441350102425
+Epoch_num: 1   training-mean-loss: 0.04024969503260217
+Epoch_num: 1   test_acc: 0.895
+Epoch_num: 2   batch_num: 0   item-loss: 0.011047441512346268
+Epoch_num: 2   batch_num: 20   item-loss: 0.004373782780021429
+Epoch_num: 2   batch_num: 40   item-loss: 0.03147383779287338
+Epoch_num: 2   batch_num: 60   item-loss: 0.008990900591015816
+Epoch_num: 2   batch_num: 80   item-loss: 0.020491089671850204
+Epoch_num: 2   batch_num: 100   item-loss: 0.03552606329321861
+Epoch_num: 2   batch_num: 120   item-loss: 0.022597165778279305
+Epoch_num: 2   batch_num: 140   item-loss: 0.0014721180777996778
+Epoch_num: 2   batch_num: 160   item-loss: 0.059218596667051315
+Epoch_num: 2   batch_num: 180   item-loss: 0.005482036620378494
+Epoch_num: 2   batch_num: 200   item-loss: 0.011141624301671982
+Epoch_num: 2   batch_num: 220   item-loss: 0.006508351769298315
+Epoch_num: 2   batch_num: 240   item-loss: 0.031342536211013794
+Epoch_num: 2   batch_num: 260   item-loss: 0.0022730615455657244
+Epoch_num: 2   batch_num: 280   item-loss: 0.036512091755867004
+Epoch_num: 2   batch_num: 300   item-loss: 0.034904927015304565
+Epoch_num: 2   batch_num: 320   item-loss: 0.055647239089012146
+Epoch_num: 2   batch_num: 340   item-loss: 0.02160465531051159
+Epoch_num: 2   batch_num: 360   item-loss: 0.031134212389588356
+Epoch_num: 2   batch_num: 380   item-loss: 0.03920978307723999
+Epoch_num: 2   batch_num: 400   item-loss: 0.01615852117538452
+Epoch_num: 2   batch_num: 420   item-loss: 0.03800267353653908
+Epoch_num: 2   batch_num: 440   item-loss: 0.062176309525966644
+Epoch_num: 2   batch_num: 460   item-loss: 0.019361399114131927
+Epoch_num: 2   batch_num: 480   item-loss: 0.03340724855661392
+Epoch_num: 2   training-mean-loss: 0.031675019173999314
+Epoch_num: 2   test_acc: 0.8915
+Epoch_num: 3   batch_num: 0   item-loss: 0.026521902531385422
+Epoch_num: 3   batch_num: 20   item-loss: 0.11472844332456589
+Epoch_num: 3   batch_num: 40   item-loss: 0.006533016450703144
+Epoch_num: 3   batch_num: 60   item-loss: 0.039152421057224274
+Epoch_num: 3   batch_num: 80   item-loss: 0.000997690949589014
+Epoch_num: 3   batch_num: 100   item-loss: 0.07788805663585663
+Epoch_num: 3   batch_num: 120   item-loss: 0.009133713319897652
+Epoch_num: 3   batch_num: 140   item-loss: 0.005391918588429689
+Epoch_num: 3   batch_num: 160   item-loss: 0.016735196113586426
+Epoch_num: 3   batch_num: 180   item-loss: 0.010137742385268211
+Epoch_num: 3   batch_num: 200   item-loss: 0.019301557913422585
+Epoch_num: 3   batch_num: 220   item-loss: 0.026855748146772385
+Epoch_num: 3   batch_num: 240   item-loss: 0.02542887255549431
+Epoch_num: 3   batch_num: 260   item-loss: 0.034213464707136154
+Epoch_num: 3   batch_num: 280   item-loss: 0.07457750290632248
+Epoch_num: 3   batch_num: 300   item-loss: 0.0403093583881855
+Epoch_num: 3   batch_num: 320   item-loss: 0.04827941581606865
+Epoch_num: 3   batch_num: 340   item-loss: 0.12514568865299225
+Epoch_num: 3   batch_num: 360   item-loss: 0.007688560523092747
+Epoch_num: 3   batch_num: 380   item-loss: 0.09665574133396149
+Epoch_num: 3   batch_num: 400   item-loss: 0.049536146223545074
+Epoch_num: 3   batch_num: 420   item-loss: 0.04181218519806862
+Epoch_num: 3   batch_num: 440   item-loss: 0.017593594267964363
+Epoch_num: 3   batch_num: 460   item-loss: 0.05129833146929741
+Epoch_num: 3   batch_num: 480   item-loss: 0.00539354095235467
+Epoch_num: 3   training-mean-loss: 0.033245153897674753
+Epoch_num: 3   test_acc: 0.8874
+Epoch_num: 4   batch_num: 0   item-loss: 0.03960461542010307
+Epoch_num: 4   batch_num: 20   item-loss: 0.01778179593384266
+Epoch_num: 4   batch_num: 40   item-loss: 0.06420233845710754
+Epoch_num: 4   batch_num: 60   item-loss: 0.0020840910729020834
+Epoch_num: 4   batch_num: 80   item-loss: 0.03526651859283447
+Epoch_num: 4   batch_num: 100   item-loss: 0.044367723166942596
+Epoch_num: 4   batch_num: 120   item-loss: 0.003043305827304721
+Epoch_num: 4   batch_num: 140   item-loss: 0.007203949615359306
+Epoch_num: 4   batch_num: 160   item-loss: 0.012907130643725395
+Epoch_num: 4   batch_num: 180   item-loss: 0.004167346283793449
+Epoch_num: 4   batch_num: 200   item-loss: 0.003486751113086939
+Epoch_num: 4   batch_num: 220   item-loss: 0.03468150645494461
+Epoch_num: 4   batch_num: 240   item-loss: 0.01342517975717783
+Epoch_num: 4   batch_num: 260   item-loss: 0.011728568002581596
+Epoch_num: 4   batch_num: 280   item-loss: 0.01029626652598381
+Epoch_num: 4   batch_num: 300   item-loss: 0.07976038008928299
+Epoch_num: 4   batch_num: 320   item-loss: 0.014612528495490551
+Epoch_num: 4   batch_num: 340   item-loss: 0.001237116870470345
+Epoch_num: 4   batch_num: 360   item-loss: 0.02844206988811493
+Epoch_num: 4   batch_num: 380   item-loss: 0.0733380913734436
+Epoch_num: 4   batch_num: 400   item-loss: 0.03287705034017563
+Epoch_num: 4   batch_num: 420   item-loss: 0.0782645121216774
+Epoch_num: 4   batch_num: 440   item-loss: 0.10056576877832413
+Epoch_num: 4   batch_num: 460   item-loss: 0.02387392520904541
+Epoch_num: 4   batch_num: 480   item-loss: 0.004945633001625538
+Epoch_num: 4   training-mean-loss: 0.03285996171890292
+Epoch_num: 4   test_acc: 0.8867
+Epoch_num: 5   batch_num: 0   item-loss: 0.006591887678951025
+Epoch_num: 5   batch_num: 20   item-loss: 0.005756029859185219
+Epoch_num: 5   batch_num: 40   item-loss: 0.055311527103185654
+Epoch_num: 5   batch_num: 60   item-loss: 0.010884956456720829
+Epoch_num: 5   batch_num: 80   item-loss: 0.04525722935795784
+Epoch_num: 5   batch_num: 100   item-loss: 0.001626335782930255
+Epoch_num: 5   batch_num: 120   item-loss: 0.010518751107156277
+Epoch_num: 5   batch_num: 140   item-loss: 0.08977799117565155
+Epoch_num: 5   batch_num: 160   item-loss: 0.0540243536233902
+Epoch_num: 5   batch_num: 180   item-loss: 0.04619656875729561
+Epoch_num: 5   batch_num: 200   item-loss: 0.01969218999147415
+Epoch_num: 5   batch_num: 220   item-loss: 0.009121171198785305
+Epoch_num: 5   batch_num: 240   item-loss: 0.005787761881947517
+Epoch_num: 5   batch_num: 260   item-loss: 0.021776823326945305
+Epoch_num: 5   batch_num: 280   item-loss: 0.0022071723360568285
+Epoch_num: 5   batch_num: 300   item-loss: 0.02152201160788536
+Epoch_num: 5   batch_num: 320   item-loss: 0.016373638063669205
+Epoch_num: 5   batch_num: 340   item-loss: 0.03627851977944374
+Epoch_num: 5   batch_num: 360   item-loss: 0.09504245966672897
+Epoch_num: 5   batch_num: 380   item-loss: 0.013024198822677135
+Epoch_num: 5   batch_num: 400   item-loss: 0.035957712680101395
+Epoch_num: 5   batch_num: 420   item-loss: 0.008000034838914871
+Epoch_num: 5   batch_num: 440   item-loss: 0.09516561776399612
+Epoch_num: 5   batch_num: 460   item-loss: 0.01898532174527645
+Epoch_num: 5   batch_num: 480   item-loss: 0.013988555409014225
+Epoch_num: 5   training-mean-loss: 0.026922037822776475
+Epoch_num: 5   test_acc: 0.8968
+Epoch_num: 6   batch_num: 0   item-loss: 0.003721468383446336
+Epoch_num: 6   batch_num: 20   item-loss: 0.0075265830382704735
+Epoch_num: 6   batch_num: 40   item-loss: 0.023870402947068214
+Epoch_num: 6   batch_num: 60   item-loss: 0.007154513616114855
+Epoch_num: 6   batch_num: 80   item-loss: 0.00654994323849678
+Epoch_num: 6   batch_num: 100   item-loss: 0.00805358961224556
+Epoch_num: 6   batch_num: 120   item-loss: 0.0049475738778710365
+Epoch_num: 6   batch_num: 140   item-loss: 0.0013793888501822948
+Epoch_num: 6   batch_num: 160   item-loss: 0.027768516913056374
+Epoch_num: 6   batch_num: 180   item-loss: 0.009839650243520737
+Epoch_num: 6   batch_num: 200   item-loss: 0.018823688849806786
+Epoch_num: 6   batch_num: 220   item-loss: 0.012109912931919098
+Epoch_num: 6   batch_num: 240   item-loss: 0.06041138991713524
+Epoch_num: 6   batch_num: 260   item-loss: 0.01610889472067356
+Epoch_num: 6   batch_num: 280   item-loss: 0.01973302848637104
+Epoch_num: 6   batch_num: 300   item-loss: 0.0519101582467556
+Epoch_num: 6   batch_num: 320   item-loss: 0.05819416418671608
+Epoch_num: 6   batch_num: 340   item-loss: 0.010280502960085869
+Epoch_num: 6   batch_num: 360   item-loss: 0.012120494619011879
+Epoch_num: 6   batch_num: 380   item-loss: 0.005936112254858017
+Epoch_num: 6   batch_num: 400   item-loss: 0.10256996005773544
+Epoch_num: 6   batch_num: 420   item-loss: 0.0559341162443161
+Epoch_num: 6   batch_num: 440   item-loss: 0.1645442545413971
+Epoch_num: 6   batch_num: 460   item-loss: 0.03574715554714203
+Epoch_num: 6   batch_num: 480   item-loss: 0.014529620297253132
+Epoch_num: 6   training-mean-loss: 0.026880049694795162
+Epoch_num: 6   test_acc: 0.8919
+Epoch_num: 7   batch_num: 0   item-loss: 0.06616466492414474
+Epoch_num: 7   batch_num: 20   item-loss: 0.011835344135761261
+Epoch_num: 7   batch_num: 40   item-loss: 0.0015041541773825884
+Epoch_num: 7   batch_num: 60   item-loss: 0.005613493733108044
+Epoch_num: 7   batch_num: 80   item-loss: 0.006124318111687899
+Epoch_num: 7   batch_num: 100   item-loss: 0.017803503200411797
+Epoch_num: 7   batch_num: 120   item-loss: 0.007139184046536684
+Epoch_num: 7   batch_num: 140   item-loss: 0.016255151480436325
+Epoch_num: 7   batch_num: 160   item-loss: 0.01892409473657608
+Epoch_num: 7   batch_num: 180   item-loss: 0.01651250757277012
+Epoch_num: 7   batch_num: 200   item-loss: 0.047450557351112366
+Epoch_num: 7   batch_num: 220   item-loss: 0.004315873607993126
+Epoch_num: 7   batch_num: 240   item-loss: 0.035113994032144547
+Epoch_num: 7   batch_num: 260   item-loss: 0.026755236089229584
+Epoch_num: 7   batch_num: 280   item-loss: 0.04221843183040619
+Epoch_num: 7   batch_num: 300   item-loss: 0.01795213297009468
+Epoch_num: 7   batch_num: 320   item-loss: 0.08332828432321548
+Epoch_num: 7   batch_num: 340   item-loss: 0.019987763836979866
+Epoch_num: 7   batch_num: 360   item-loss: 0.021080918610095978
+Epoch_num: 7   batch_num: 380   item-loss: 0.006081178784370422
+Epoch_num: 7   batch_num: 400   item-loss: 0.0017819468630477786
+Epoch_num: 7   batch_num: 420   item-loss: 0.017816318199038506
+Epoch_num: 7   batch_num: 440   item-loss: 0.005966832861304283
+Epoch_num: 7   batch_num: 460   item-loss: 0.07291426509618759
+Epoch_num: 7   batch_num: 480   item-loss: 0.009990448132157326
+Epoch_num: 7   training-mean-loss: 0.027043254745658486
+Epoch_num: 7   test_acc: 0.8956
+Epoch_num: 8   batch_num: 0   item-loss: 0.019894268363714218
+Epoch_num: 8   batch_num: 20   item-loss: 0.012628498487174511
+Epoch_num: 8   batch_num: 40   item-loss: 0.0018072094535455108
+Epoch_num: 8   batch_num: 60   item-loss: 0.011584759689867496
+Epoch_num: 8   batch_num: 80   item-loss: 0.00599099462851882
+Epoch_num: 8   batch_num: 100   item-loss: 0.01933201029896736
+Epoch_num: 8   batch_num: 120   item-loss: 0.007177646271884441
+Epoch_num: 8   batch_num: 140   item-loss: 0.021634578704833984
+Epoch_num: 8   batch_num: 160   item-loss: 0.005571654532104731
+Epoch_num: 8   batch_num: 180   item-loss: 0.0022836956195533276
+Epoch_num: 8   batch_num: 200   item-loss: 0.0031224542763084173
+Epoch_num: 8   batch_num: 220   item-loss: 0.00784278940409422
+Epoch_num: 8   batch_num: 240   item-loss: 0.02634870447218418
+Epoch_num: 8   batch_num: 260   item-loss: 0.03707083314657211
+Epoch_num: 8   batch_num: 280   item-loss: 0.03670177608728409
+Epoch_num: 8   batch_num: 300   item-loss: 0.03779801353812218
+Epoch_num: 8   batch_num: 320   item-loss: 0.003909949213266373
+Epoch_num: 8   batch_num: 340   item-loss: 0.010793797671794891
+Epoch_num: 8   batch_num: 360   item-loss: 0.0314742811024189
+Epoch_num: 8   batch_num: 380   item-loss: 0.010049795731902122
+Epoch_num: 8   batch_num: 400   item-loss: 0.022850727662444115
+Epoch_num: 8   batch_num: 420   item-loss: 0.012263343669474125
+Epoch_num: 8   batch_num: 440   item-loss: 0.06313010305166245
+Epoch_num: 8   batch_num: 460   item-loss: 0.04537154361605644
+Epoch_num: 8   batch_num: 480   item-loss: 0.013750297948718071
+Epoch_num: 8   training-mean-loss: 0.021429318169975887
+Epoch_num: 8   test_acc: 0.889
+Epoch_num: 9   batch_num: 0   item-loss: 0.0007202863926067948
+Epoch_num: 9   batch_num: 20   item-loss: 0.0265059657394886
+Epoch_num: 9   batch_num: 40   item-loss: 0.0123585881665349
+Epoch_num: 9   batch_num: 60   item-loss: 0.00413154624402523
+Epoch_num: 9   batch_num: 80   item-loss: 0.006816040258854628
+Epoch_num: 9   batch_num: 100   item-loss: 0.007714890409260988
+Epoch_num: 9   batch_num: 120   item-loss: 0.02773033082485199
+Epoch_num: 9   batch_num: 140   item-loss: 0.002278098836541176
+Epoch_num: 9   batch_num: 160   item-loss: 0.0025203321129083633
+Epoch_num: 9   batch_num: 180   item-loss: 0.0007220770348794758
+Epoch_num: 9   batch_num: 200   item-loss: 0.011733539402484894
+Epoch_num: 9   batch_num: 220   item-loss: 0.013981076888740063
+Epoch_num: 9   batch_num: 240   item-loss: 0.025701839476823807
+Epoch_num: 9   batch_num: 260   item-loss: 0.0008666689973324537
+Epoch_num: 9   batch_num: 280   item-loss: 0.0227315966039896
+Epoch_num: 9   batch_num: 300   item-loss: 0.04925239086151123
+Epoch_num: 9   batch_num: 320   item-loss: 0.01813686639070511
+Epoch_num: 9   batch_num: 340   item-loss: 0.006228587590157986
+Epoch_num: 9   batch_num: 360   item-loss: 0.006220498587936163
+Epoch_num: 9   batch_num: 380   item-loss: 0.05561753362417221
+Epoch_num: 9   batch_num: 400   item-loss: 0.006894169840961695
+Epoch_num: 9   batch_num: 420   item-loss: 0.031239889562129974
+Epoch_num: 9   batch_num: 440   item-loss: 0.017151817679405212
+Epoch_num: 9   batch_num: 460   item-loss: 0.08173683285713196
+Epoch_num: 9   batch_num: 480   item-loss: 0.024995878338813782
+Epoch_num: 9   training-mean-loss: 0.02538045030430658
+Epoch_num: 9   test_acc: 0.8985
+Epoch_num: 10   batch_num: 0   item-loss: 0.008946285583078861
+Epoch_num: 10   batch_num: 20   item-loss: 0.026246165856719017
+Epoch_num: 10   batch_num: 40   item-loss: 0.033918511122465134
+Epoch_num: 10   batch_num: 60   item-loss: 0.012308156117796898
+Epoch_num: 10   batch_num: 80   item-loss: 0.011557677760720253
+Epoch_num: 10   batch_num: 100   item-loss: 0.025279955938458443
+Epoch_num: 10   batch_num: 120   item-loss: 0.04796629399061203
+Epoch_num: 10   batch_num: 140   item-loss: 0.04261840879917145
+Epoch_num: 10   batch_num: 160   item-loss: 0.0008967408793978393
+Epoch_num: 10   batch_num: 180   item-loss: 0.022123444825410843
+Epoch_num: 10   batch_num: 200   item-loss: 0.0023428008425980806
+Epoch_num: 10   batch_num: 220   item-loss: 0.01898093707859516
+Epoch_num: 10   batch_num: 240   item-loss: 0.008064087480306625
+Epoch_num: 10   batch_num: 260   item-loss: 0.05060209333896637
+Epoch_num: 10   batch_num: 280   item-loss: 0.0191024299710989
+Epoch_num: 10   batch_num: 300   item-loss: 0.10950736701488495
+Epoch_num: 10   batch_num: 320   item-loss: 0.08344459533691406
+Epoch_num: 10   batch_num: 340   item-loss: 0.010467332787811756
+Epoch_num: 10   batch_num: 360   item-loss: 0.007444990798830986
+Epoch_num: 10   batch_num: 380   item-loss: 0.0456990972161293
+Epoch_num: 10   batch_num: 400   item-loss: 0.007206736598163843
+Epoch_num: 10   batch_num: 420   item-loss: 0.03879871964454651
+Epoch_num: 10   batch_num: 440   item-loss: 0.017848404124379158
+Epoch_num: 10   batch_num: 460   item-loss: 0.010879257693886757
+Epoch_num: 10   batch_num: 480   item-loss: 0.04198714345693588
+Epoch_num: 10   training-mean-loss: 0.025419767714920452
+Epoch_num: 10   test_acc: 0.8958
+Epoch_num: 11   batch_num: 0   item-loss: 0.011287209577858448
+Epoch_num: 11   batch_num: 20   item-loss: 0.040059007704257965
+Epoch_num: 11   batch_num: 40   item-loss: 0.006093649193644524
+Epoch_num: 11   batch_num: 60   item-loss: 0.0004927758709527552
+Epoch_num: 11   batch_num: 80   item-loss: 0.00966894906014204
+Epoch_num: 11   batch_num: 100   item-loss: 0.024042204022407532
+Epoch_num: 11   batch_num: 120   item-loss: 0.03896907716989517
+Epoch_num: 11   batch_num: 140   item-loss: 0.00225658412091434
+Epoch_num: 11   batch_num: 160   item-loss: 0.01894994080066681
+Epoch_num: 11   batch_num: 180   item-loss: 0.0006809868500567973
+Epoch_num: 11   batch_num: 200   item-loss: 0.019983993843197823
+Epoch_num: 11   batch_num: 220   item-loss: 0.013557192869484425
+Epoch_num: 11   batch_num: 240   item-loss: 0.0014097742969170213
+Epoch_num: 11   batch_num: 260   item-loss: 0.0014525913866236806
+Epoch_num: 11   batch_num: 280   item-loss: 0.0033210560213774443
+Epoch_num: 11   batch_num: 300   item-loss: 0.006516784895211458
+Epoch_num: 11   batch_num: 320   item-loss: 0.008367529138922691
+Epoch_num: 11   batch_num: 340   item-loss: 0.11391554772853851
+Epoch_num: 11   batch_num: 360   item-loss: 0.009591071866452694
+Epoch_num: 11   batch_num: 380   item-loss: 0.023973023518919945
+Epoch_num: 0   batch_num: 0   item-loss: 0.010380243882536888
+Epoch_num: 0   batch_num: 20   item-loss: 0.018766464665532112
+Epoch_num: 0   batch_num: 40   item-loss: 0.02060883492231369
+Epoch_num: 0   batch_num: 60   item-loss: 0.008463381789624691
+Epoch_num: 0   batch_num: 80   item-loss: 0.016076084226369858
+Epoch_num: 0   batch_num: 100   item-loss: 0.01524760015308857
+Epoch_num: 0   batch_num: 120   item-loss: 0.007134970277547836
+Epoch_num: 0   batch_num: 140   item-loss: 0.036130115389823914
+Epoch_num: 0   batch_num: 160   item-loss: 0.053220268338918686
+Epoch_num: 0   batch_num: 180   item-loss: 0.07586532086133957
+Epoch_num: 0   batch_num: 200   item-loss: 0.023407302796840668
+Epoch_num: 0   batch_num: 220   item-loss: 0.020035436376929283
+Epoch_num: 0   batch_num: 240   item-loss: 0.013381004333496094
+Epoch_num: 0   batch_num: 260   item-loss: 0.05178360641002655
+Epoch_num: 0   batch_num: 280   item-loss: 0.02860112488269806
+Epoch_num: 0   batch_num: 300   item-loss: 0.010054118931293488
+Epoch_num: 0   batch_num: 320   item-loss: 0.058634839951992035
+Epoch_num: 0   batch_num: 340   item-loss: 0.007008415646851063
+Epoch_num: 0   batch_num: 360   item-loss: 0.009285210631787777
+Epoch_num: 0   batch_num: 380   item-loss: 0.005687671713531017
+Epoch_num: 0   batch_num: 400   item-loss: 0.0568339005112648
+Epoch_num: 0   batch_num: 420   item-loss: 0.05611557513475418
+Epoch_num: 0   batch_num: 440   item-loss: 0.004354068543761969
+Epoch_num: 0   batch_num: 460   item-loss: 0.03850627318024635
+Epoch_num: 0   batch_num: 480   item-loss: 0.014378312043845654
+Epoch_num: 0   training-mean-loss: 0.024148239024740177
+Epoch_num: 0   test_acc: 0.8953
+Epoch_num: 1   batch_num: 0   item-loss: 0.02868553251028061
+Epoch_num: 1   batch_num: 20   item-loss: 0.004787559621036053
+Epoch_num: 1   batch_num: 40   item-loss: 0.004313685931265354
+Epoch_num: 1   batch_num: 60   item-loss: 0.03880090266466141
+Epoch_num: 1   batch_num: 80   item-loss: 0.0024598008021712303
+Epoch_num: 1   batch_num: 100   item-loss: 0.13293498754501343
+Epoch_num: 1   batch_num: 120   item-loss: 0.056953221559524536
+Epoch_num: 1   batch_num: 140   item-loss: 0.0007297107367776334
+Epoch_num: 1   batch_num: 160   item-loss: 0.0523427352309227
+Epoch_num: 1   batch_num: 180   item-loss: 0.04617518559098244
+Epoch_num: 1   batch_num: 200   item-loss: 0.004578146152198315
+Epoch_num: 1   batch_num: 220   item-loss: 0.01261225063353777
+Epoch_num: 1   batch_num: 240   item-loss: 0.028592536225914955
+Epoch_num: 1   batch_num: 260   item-loss: 0.021463192999362946
+Epoch_num: 1   batch_num: 280   item-loss: 0.0016436964506283402
+Epoch_num: 1   batch_num: 300   item-loss: 0.017409518361091614
+Epoch_num: 1   batch_num: 320   item-loss: 0.0025543170049786568
+Epoch_num: 1   batch_num: 340   item-loss: 0.022923748940229416
+Epoch_num: 1   batch_num: 360   item-loss: 0.020554855465888977
+Epoch_num: 1   batch_num: 380   item-loss: 0.0007789855590090156
+Epoch_num: 1   batch_num: 400   item-loss: 0.044513653963804245
+Epoch_num: 1   batch_num: 420   item-loss: 0.02184191718697548
+Epoch_num: 1   batch_num: 440   item-loss: 0.01296332385390997
+Epoch_num: 1   batch_num: 460   item-loss: 0.0026699670124799013
+Epoch_num: 1   batch_num: 480   item-loss: 0.09628508239984512
+Epoch_num: 1   training-mean-loss: 0.024199711697292514
+Epoch_num: 1   test_acc: 0.8969
+Epoch_num: 2   batch_num: 0   item-loss: 0.002436336362734437
+Epoch_num: 2   batch_num: 20   item-loss: 0.001021216157823801
+Epoch_num: 2   batch_num: 40   item-loss: 0.009836076758801937
+Epoch_num: 2   batch_num: 60   item-loss: 0.001101288478821516
+Epoch_num: 2   batch_num: 80   item-loss: 0.00024170117103494704
+Epoch_num: 2   batch_num: 100   item-loss: 0.0010560197988525033
+Epoch_num: 2   batch_num: 120   item-loss: 0.029009699821472168
+Epoch_num: 2   batch_num: 140   item-loss: 0.0008798602502793074
+Epoch_num: 2   batch_num: 160   item-loss: 0.021032679826021194
+Epoch_num: 2   batch_num: 180   item-loss: 0.0011136296670883894
+Epoch_num: 2   batch_num: 200   item-loss: 0.00079460593406111
+Epoch_num: 2   batch_num: 220   item-loss: 0.00461510568857193
+Epoch_num: 2   batch_num: 240   item-loss: 0.0246803667396307
+Epoch_num: 2   batch_num: 260   item-loss: 0.0010440258774906397
+Epoch_num: 2   batch_num: 280   item-loss: 0.0033067709300667048
+Epoch_num: 2   batch_num: 300   item-loss: 0.04863855987787247
+Epoch_num: 2   batch_num: 320   item-loss: 0.049275804311037064
+Epoch_num: 2   batch_num: 340   item-loss: 0.0052912249229848385
+Epoch_num: 2   batch_num: 360   item-loss: 0.007118213921785355
+Epoch_num: 2   batch_num: 380   item-loss: 0.0028404993936419487
+Epoch_num: 2   batch_num: 400   item-loss: 0.057547178119421005
+Epoch_num: 2   batch_num: 420   item-loss: 0.007278610952198505
+Epoch_num: 2   batch_num: 440   item-loss: 0.010929790325462818
+Epoch_num: 2   batch_num: 460   item-loss: 0.012235007248818874
+Epoch_num: 2   batch_num: 480   item-loss: 0.03581780567765236
+Epoch_num: 2   training-mean-loss: 0.02029533179459395
+Epoch_num: 2   test_acc: 0.8921
+Epoch_num: 3   batch_num: 0   item-loss: 0.015396100468933582
+Epoch_num: 3   batch_num: 20   item-loss: 0.0037394780665636063
+Epoch_num: 3   batch_num: 40   item-loss: 0.015745574608445168
+Epoch_num: 3   batch_num: 60   item-loss: 0.004288139753043652
+Epoch_num: 3   batch_num: 80   item-loss: 0.002745669800788164
+Epoch_num: 3   batch_num: 100   item-loss: 0.042344462126493454
+Epoch_num: 3   batch_num: 120   item-loss: 0.07683269679546356
+Epoch_num: 3   batch_num: 140   item-loss: 0.06891164928674698
+Epoch_num: 3   batch_num: 160   item-loss: 0.025005163624882698
+Epoch_num: 3   batch_num: 180   item-loss: 0.047612205147743225
+Epoch_num: 3   batch_num: 200   item-loss: 0.012101280502974987
+Epoch_num: 3   batch_num: 220   item-loss: 0.023998405784368515
+Epoch_num: 3   batch_num: 240   item-loss: 0.012935114093124866
+Epoch_num: 3   batch_num: 260   item-loss: 0.009995143860578537
+Epoch_num: 3   batch_num: 280   item-loss: 0.006120271049439907
+Epoch_num: 3   batch_num: 300   item-loss: 0.0007675178349018097
+Epoch_num: 3   batch_num: 320   item-loss: 0.024884982034564018
+Epoch_num: 3   batch_num: 340   item-loss: 0.005028511397540569
+Epoch_num: 3   batch_num: 360   item-loss: 0.0033067003823816776
+Epoch_num: 3   batch_num: 380   item-loss: 0.002712969435378909
+Epoch_num: 3   batch_num: 400   item-loss: 0.0162210613489151
+Epoch_num: 3   batch_num: 420   item-loss: 0.0888744443655014
+Epoch_num: 3   batch_num: 440   item-loss: 0.018207890912890434
+Epoch_num: 3   batch_num: 460   item-loss: 0.0185452438890934
+Epoch_num: 3   batch_num: 480   item-loss: 0.03273835778236389
+Epoch_num: 3   training-mean-loss: 0.020796968698094134
+Epoch_num: 3   test_acc: 0.8979
+Epoch_num: 4   batch_num: 0   item-loss: 0.008531462401151657
+Epoch_num: 4   batch_num: 20   item-loss: 0.0028673370834439993
+Epoch_num: 4   batch_num: 40   item-loss: 0.029116138815879822
+Epoch_num: 4   batch_num: 60   item-loss: 0.0006616467726416886
+Epoch_num: 4   batch_num: 80   item-loss: 0.009606221690773964
+Epoch_num: 4   batch_num: 100   item-loss: 0.008293497376143932
+Epoch_num: 4   batch_num: 120   item-loss: 0.07042033970355988
+Epoch_num: 4   batch_num: 140   item-loss: 0.030931973829865456
+Epoch_num: 4   batch_num: 160   item-loss: 0.020531387999653816
+Epoch_num: 4   batch_num: 180   item-loss: 0.0010995959164574742
+Epoch_num: 4   batch_num: 200   item-loss: 0.026212597265839577
+Epoch_num: 4   batch_num: 220   item-loss: 0.02142680622637272
+Epoch_num: 4   batch_num: 240   item-loss: 0.020067421719431877
+Epoch_num: 4   batch_num: 260   item-loss: 0.07320211827754974
+Epoch_num: 4   batch_num: 280   item-loss: 0.022373730316758156
+Epoch_num: 4   batch_num: 300   item-loss: 0.028353288769721985
+Epoch_num: 4   batch_num: 320   item-loss: 0.006484395358711481
+Epoch_num: 4   batch_num: 340   item-loss: 0.04080772399902344
+Epoch_num: 4   batch_num: 360   item-loss: 0.0987098440527916
+Epoch_num: 4   batch_num: 380   item-loss: 0.0028662574477493763
+Epoch_num: 4   batch_num: 400   item-loss: 0.0036888474132865667
+Epoch_num: 4   batch_num: 420   item-loss: 0.03427394479513168
+Epoch_num: 4   batch_num: 440   item-loss: 0.0010596042266115546
+Epoch_num: 4   batch_num: 460   item-loss: 0.0495573990046978
+Epoch_num: 4   batch_num: 480   item-loss: 0.005533887073397636
+Epoch_num: 4   training-mean-loss: 0.020597992825874826
+Epoch_num: 4   test_acc: 0.9011
+Epoch_num: 5   batch_num: 0   item-loss: 0.03559206798672676
+Epoch_num: 5   batch_num: 20   item-loss: 0.005256162956357002
+Epoch_num: 5   batch_num: 40   item-loss: 0.013541058637201786
+Epoch_num: 5   batch_num: 60   item-loss: 0.026708634570240974
+Epoch_num: 5   batch_num: 80   item-loss: 0.03585737571120262
+Epoch_num: 5   batch_num: 100   item-loss: 0.009884137660264969
+Epoch_num: 5   batch_num: 120   item-loss: 0.0037014891859143972
+Epoch_num: 5   batch_num: 140   item-loss: 0.0012742484686896205
+Epoch_num: 5   batch_num: 160   item-loss: 0.061605170369148254
+Epoch_num: 5   batch_num: 180   item-loss: 0.051641494035720825
+Epoch_num: 5   batch_num: 200   item-loss: 0.03581899031996727
+Epoch_num: 5   batch_num: 220   item-loss: 0.03307146951556206
+Epoch_num: 5   batch_num: 240   item-loss: 0.024171026423573494
+Epoch_num: 5   batch_num: 260   item-loss: 0.006434681825339794
+Epoch_num: 5   batch_num: 280   item-loss: 0.023396778851747513
+Epoch_num: 5   batch_num: 300   item-loss: 0.005527979228645563
+Epoch_num: 5   batch_num: 320   item-loss: 0.06517428904771805
+Epoch_num: 5   batch_num: 340   item-loss: 0.006600930821150541
+Epoch_num: 5   batch_num: 360   item-loss: 0.007198982872068882
+Epoch_num: 5   batch_num: 380   item-loss: 0.004881648812443018
+Epoch_num: 5   batch_num: 400   item-loss: 0.04695507884025574
+Epoch_num: 5   batch_num: 420   item-loss: 0.022039424628019333
+Epoch_num: 5   batch_num: 440   item-loss: 0.013814014382660389
+Epoch_num: 5   batch_num: 460   item-loss: 0.002584288362413645
+Epoch_num: 5   batch_num: 480   item-loss: 0.006873926613479853
+Epoch_num: 5   training-mean-loss: 0.018649087668687572
+Epoch_num: 5   test_acc: 0.9049
+Epoch_num: 6   batch_num: 0   item-loss: 0.0008104015723802149
+Epoch_num: 6   batch_num: 20   item-loss: 0.0019450660329312086
+Epoch_num: 6   batch_num: 40   item-loss: 0.005915988702327013
+Epoch_num: 6   batch_num: 60   item-loss: 0.0005166401970200241
+Epoch_num: 6   batch_num: 80   item-loss: 0.03794215992093086
+Epoch_num: 6   batch_num: 100   item-loss: 0.00340096652507782
+Epoch_num: 6   batch_num: 120   item-loss: 0.0011009479640051723
+Epoch_num: 6   batch_num: 140   item-loss: 8.639516454422846e-05
+Epoch_num: 6   batch_num: 160   item-loss: 0.002945919521152973
+Epoch_num: 6   batch_num: 180   item-loss: 0.05781996250152588
+Epoch_num: 6   batch_num: 200   item-loss: 0.08156441897153854
+Epoch_num: 6   batch_num: 220   item-loss: 0.0004631549818441272
+Epoch_num: 6   batch_num: 240   item-loss: 0.01866026781499386
+Epoch_num: 6   batch_num: 260   item-loss: 0.008968559093773365
+Epoch_num: 6   batch_num: 280   item-loss: 0.02159353718161583
+Epoch_num: 6   batch_num: 300   item-loss: 0.007544913329184055
+Epoch_num: 6   batch_num: 320   item-loss: 0.00622286694124341
+Epoch_num: 6   batch_num: 340   item-loss: 0.013350887224078178
+Epoch_num: 6   batch_num: 360   item-loss: 0.012658655643463135
+Epoch_num: 6   batch_num: 380   item-loss: 0.00851420033723116
+Epoch_num: 6   batch_num: 400   item-loss: 0.03433070331811905
+Epoch_num: 6   batch_num: 420   item-loss: 0.0013121796073392034
+Epoch_num: 6   batch_num: 440   item-loss: 0.0015434829983860254
+Epoch_num: 6   batch_num: 460   item-loss: 0.02008240669965744
+Epoch_num: 6   batch_num: 480   item-loss: 0.014523923397064209
+Epoch_num: 6   training-mean-loss: 0.014320376422634581
+Epoch_num: 6   test_acc: 0.8944
+Epoch_num: 7   batch_num: 0   item-loss: 0.0009545898647047579
+Epoch_num: 7   batch_num: 20   item-loss: 0.055513281375169754
+Epoch_num: 7   batch_num: 40   item-loss: 0.09405414760112762
+Epoch_num: 7   batch_num: 60   item-loss: 0.05140261352062225
+Epoch_num: 7   batch_num: 80   item-loss: 0.03637714684009552
+Epoch_num: 7   batch_num: 100   item-loss: 0.027071524411439896
+Epoch_num: 7   batch_num: 120   item-loss: 0.010349544696509838
+Epoch_num: 7   batch_num: 140   item-loss: 0.014280328527092934
+Epoch_num: 7   batch_num: 160   item-loss: 0.00015862594591453671
+Epoch_num: 7   batch_num: 180   item-loss: 0.08963257819414139
+Epoch_num: 7   batch_num: 200   item-loss: 0.0017319032922387123
+Epoch_num: 7   batch_num: 220   item-loss: 0.018522076308727264
+Epoch_num: 7   batch_num: 240   item-loss: 0.021104464307427406
+Epoch_num: 7   batch_num: 260   item-loss: 0.004758059978485107
+Epoch_num: 7   batch_num: 280   item-loss: 0.033678244799375534
+Epoch_num: 7   batch_num: 300   item-loss: 0.00142733717802912
+Epoch_num: 7   batch_num: 320   item-loss: 0.05274619907140732
+Epoch_num: 7   batch_num: 340   item-loss: 0.02653711475431919
+Epoch_num: 7   batch_num: 360   item-loss: 0.00444184010848403
+Epoch_num: 7   batch_num: 380   item-loss: 0.0018719083163887262
+Epoch_num: 7   batch_num: 400   item-loss: 0.0061465720646083355
+Epoch_num: 7   batch_num: 420   item-loss: 0.002993115456774831
+Epoch_num: 7   batch_num: 440   item-loss: 0.026166584342718124
+Epoch_num: 7   batch_num: 460   item-loss: 0.005425239913165569
+Epoch_num: 7   batch_num: 480   item-loss: 0.00023296735889744014
+Epoch_num: 7   training-mean-loss: 0.02066227685761987
+Epoch_num: 7   test_acc: 0.8972
+Epoch_num: 8   batch_num: 0   item-loss: 0.009017011150717735
+Epoch_num: 8   batch_num: 20   item-loss: 0.048424288630485535
+Epoch_num: 8   batch_num: 40   item-loss: 5.671520557370968e-05
+Epoch_num: 8   batch_num: 60   item-loss: 0.08561275154352188
+Epoch_num: 8   batch_num: 80   item-loss: 0.036336399614810944
+Epoch_num: 8   batch_num: 100   item-loss: 0.005457679741084576
+Epoch_num: 8   batch_num: 120   item-loss: 0.0012492979876697063
+Epoch_num: 8   batch_num: 140   item-loss: 0.001298602088354528
+Epoch_num: 8   batch_num: 160   item-loss: 0.0009084016201086342
+Epoch_num: 8   batch_num: 180   item-loss: 0.0028012210968881845
+Epoch_num: 8   batch_num: 200   item-loss: 0.00042822875548154116
+Epoch_num: 8   batch_num: 220   item-loss: 0.007027918007224798
+Epoch_num: 8   batch_num: 240   item-loss: 0.003925420343875885
+Epoch_num: 8   batch_num: 260   item-loss: 0.0006655978504568338
+Epoch_num: 8   batch_num: 280   item-loss: 0.00443233922123909
+Epoch_num: 8   batch_num: 300   item-loss: 0.005980117712169886
+Epoch_num: 8   batch_num: 320   item-loss: 0.0073816473595798016
+Epoch_num: 8   batch_num: 340   item-loss: 0.004073332529515028
+Epoch_num: 8   batch_num: 360   item-loss: 0.008247149176895618
+Epoch_num: 8   batch_num: 380   item-loss: 0.01517629623413086
+Epoch_num: 8   batch_num: 400   item-loss: 0.04152004420757294
+Epoch_num: 8   batch_num: 420   item-loss: 0.03787577524781227
+Epoch_num: 8   batch_num: 440   item-loss: 0.0011867209104821086
+Epoch_num: 8   batch_num: 460   item-loss: 0.026238271966576576
+Epoch_num: 8   batch_num: 480   item-loss: 0.08507128059864044
+Epoch_num: 8   training-mean-loss: 0.015567857984053262
+Epoch_num: 8   test_acc: 0.8911
+Epoch_num: 9   batch_num: 0   item-loss: 0.001862592063844204
+Epoch_num: 9   batch_num: 20   item-loss: 0.001951277838088572
+Epoch_num: 9   batch_num: 40   item-loss: 0.002078339923173189
+Epoch_num: 9   batch_num: 60   item-loss: 0.0012278007343411446
+Epoch_num: 9   batch_num: 80   item-loss: 0.05732027441263199
+Epoch_num: 9   batch_num: 100   item-loss: 0.05916953086853027
+Epoch_num: 9   batch_num: 120   item-loss: 0.0024121454916894436
+Epoch_num: 9   batch_num: 140   item-loss: 0.004500254523009062
+Epoch_num: 9   batch_num: 160   item-loss: 0.03670747950673103
+Epoch_num: 9   batch_num: 180   item-loss: 0.003137479070574045
+Epoch_num: 9   batch_num: 200   item-loss: 0.004188043065369129
+Epoch_num: 9   batch_num: 220   item-loss: 0.023206312209367752
+Epoch_num: 9   batch_num: 240   item-loss: 0.006351289805024862
+Epoch_num: 9   batch_num: 260   item-loss: 0.007837011478841305
+Epoch_num: 9   batch_num: 280   item-loss: 0.004520928952842951
+Epoch_num: 9   batch_num: 300   item-loss: 0.05005933716893196
+Epoch_num: 9   batch_num: 320   item-loss: 0.07070427387952805
+Epoch_num: 9   batch_num: 340   item-loss: 0.09499746561050415
+Epoch_num: 9   batch_num: 360   item-loss: 0.03824121877551079
+Epoch_num: 9   batch_num: 380   item-loss: 0.05520610511302948
+Epoch_num: 9   batch_num: 400   item-loss: 0.010002332739531994
+Epoch_num: 9   batch_num: 420   item-loss: 0.009152518585324287
+Epoch_num: 9   batch_num: 440   item-loss: 0.021323755383491516
+Epoch_num: 9   batch_num: 460   item-loss: 0.003443873720243573
+Epoch_num: 9   batch_num: 480   item-loss: 0.006622373592108488
+Epoch_num: 9   training-mean-loss: 0.01860954829369439
+Epoch_num: 9   test_acc: 0.8948
+Epoch_num: 10   batch_num: 0   item-loss: 0.014749888330698013
+Epoch_num: 10   batch_num: 20   item-loss: 0.0053146760910749435
+Epoch_num: 10   batch_num: 40   item-loss: 0.001091629615984857
+Epoch_num: 10   batch_num: 60   item-loss: 0.0006687318673357368
+Epoch_num: 10   batch_num: 80   item-loss: 0.0017187042394652963
+Epoch_num: 10   batch_num: 100   item-loss: 0.0003500196326058358
+Epoch_num: 10   batch_num: 120   item-loss: 0.002849564654752612
+Epoch_num: 10   batch_num: 140   item-loss: 0.002227884717285633
+Epoch_num: 10   batch_num: 160   item-loss: 0.002857150975614786
+Epoch_num: 10   batch_num: 180   item-loss: 0.048694971948862076
+Epoch_num: 10   batch_num: 200   item-loss: 0.0005698734312318265
+Epoch_num: 10   batch_num: 220   item-loss: 0.0006310491007752717
+Epoch_num: 10   batch_num: 240   item-loss: 0.0014716003788635135
+Epoch_num: 10   batch_num: 260   item-loss: 0.024781379848718643
+Epoch_num: 10   batch_num: 280   item-loss: 0.0014893145998939872
+Epoch_num: 10   batch_num: 300   item-loss: 0.030657323077321053
+Epoch_num: 10   batch_num: 320   item-loss: 0.033998165279626846
+Epoch_num: 10   batch_num: 340   item-loss: 0.0014838018687441945
+Epoch_num: 10   batch_num: 360   item-loss: 0.07180708646774292
+Epoch_num: 10   batch_num: 380   item-loss: 0.019948871806263924
+Epoch_num: 10   batch_num: 400   item-loss: 0.028349874541163445
+Epoch_num: 10   batch_num: 420   item-loss: 0.0029277915600687265
+Epoch_num: 10   batch_num: 440   item-loss: 0.06219351291656494
+Epoch_num: 10   batch_num: 460   item-loss: 0.005578944459557533
+Epoch_num: 10   batch_num: 480   item-loss: 0.008598612621426582
+Epoch_num: 10   training-mean-loss: 0.014709389207826462
+Epoch_num: 10   test_acc: 0.888
+Epoch_num: 11   batch_num: 0   item-loss: 0.0010115678887814283
+Epoch_num: 11   batch_num: 20   item-loss: 0.02014203369617462
+Epoch_num: 11   batch_num: 40   item-loss: 0.004615390207618475
+Epoch_num: 11   batch_num: 60   item-loss: 0.013084487058222294
+Epoch_num: 11   batch_num: 80   item-loss: 0.011406831443309784
+Epoch_num: 11   batch_num: 100   item-loss: 0.015673689544200897
+Epoch_num: 11   batch_num: 120   item-loss: 0.002114666625857353
+Epoch_num: 11   batch_num: 140   item-loss: 0.003459775820374489
+Epoch_num: 11   batch_num: 160   item-loss: 0.058634355664253235
+Epoch_num: 11   batch_num: 180   item-loss: 0.00253795157186687
+Epoch_num: 11   batch_num: 200   item-loss: 0.022750094532966614
+Epoch_num: 11   batch_num: 220   item-loss: 0.019031325355172157
+Epoch_num: 11   batch_num: 240   item-loss: 0.005817372817546129
+Epoch_num: 11   batch_num: 260   item-loss: 0.0007690369966439903
+Epoch_num: 11   batch_num: 280   item-loss: 0.018887098878622055
+Epoch_num: 11   batch_num: 300   item-loss: 0.025285985320806503
+Epoch_num: 11   batch_num: 320   item-loss: 0.03900398313999176
+Epoch_num: 11   batch_num: 340   item-loss: 0.0009077989961951971
+Epoch_num: 11   batch_num: 360   item-loss: 0.04690645635128021
+Epoch_num: 11   batch_num: 380   item-loss: 0.017139814794063568
+Epoch_num: 11   batch_num: 400   item-loss: 0.002230934565886855
+Epoch_num: 11   batch_num: 420   item-loss: 0.00044699542922899127
+Epoch_num: 11   batch_num: 440   item-loss: 0.008030947297811508
+Epoch_num: 11   batch_num: 460   item-loss: 0.007240383420139551
+Epoch_num: 11   batch_num: 480   item-loss: 0.024136705324053764
+Epoch_num: 11   training-mean-loss: 0.015156701423184132
+Epoch_num: 11   test_acc: 0.8958
+Epoch_num: 12   batch_num: 0   item-loss: 0.05929647758603096
+Epoch_num: 12   batch_num: 20   item-loss: 0.0013810454402118921
+Epoch_num: 12   batch_num: 40   item-loss: 0.0007107963901944458
+Epoch_num: 12   batch_num: 60   item-loss: 0.00048086734022945166
+Epoch_num: 12   batch_num: 80   item-loss: 0.0041155084036290646
+Epoch_num: 12   batch_num: 100   item-loss: 0.0025018304586410522
+Epoch_num: 12   batch_num: 120   item-loss: 0.0019456128356978297
+Epoch_num: 12   batch_num: 140   item-loss: 0.0008492148481309414
+Epoch_num: 12   batch_num: 160   item-loss: 0.05817210674285889
+Epoch_num: 12   batch_num: 180   item-loss: 0.0006016148836351931
+Epoch_num: 12   batch_num: 200   item-loss: 0.003281990997493267
+Epoch_num: 12   batch_num: 220   item-loss: 0.001899941242299974
+Epoch_num: 12   batch_num: 240   item-loss: 0.009806500747799873
+Epoch_num: 12   batch_num: 260   item-loss: 0.0007687759934924543
+Epoch_num: 12   batch_num: 280   item-loss: 0.002994253532961011
+Epoch_num: 12   batch_num: 300   item-loss: 0.001315914443694055
+Epoch_num: 12   batch_num: 320   item-loss: 0.011711006984114647
+Epoch_num: 12   batch_num: 340   item-loss: 0.002996007911860943
+Epoch_num: 12   batch_num: 360   item-loss: 0.026188144460320473
+Epoch_num: 12   batch_num: 380   item-loss: 0.008766936138272285
+Epoch_num: 12   batch_num: 400   item-loss: 0.0019677337259054184
+Epoch_num: 12   batch_num: 420   item-loss: 0.0007583381375297904
+Epoch_num: 12   batch_num: 440   item-loss: 0.045230552554130554
+Epoch_num: 12   batch_num: 460   item-loss: 0.06037052720785141
+Epoch_num: 12   batch_num: 480   item-loss: 0.007866560481488705
+Epoch_num: 12   training-mean-loss: 0.013842330741026672
+Epoch_num: 12   test_acc: 0.8897
+Epoch_num: 13   batch_num: 0   item-loss: 0.018062153831124306
+Epoch_num: 13   batch_num: 20   item-loss: 0.02346057817339897
+Epoch_num: 13   batch_num: 40   item-loss: 0.007201735395938158
+Epoch_num: 13   batch_num: 60   item-loss: 0.0009937584400177002
+Epoch_num: 13   batch_num: 80   item-loss: 0.03652101382613182
+Epoch_num: 13   batch_num: 100   item-loss: 0.0015414906665682793
+Epoch_num: 13   batch_num: 120   item-loss: 0.011051313020288944
+Epoch_num: 13   batch_num: 140   item-loss: 0.02574675716459751
+Epoch_num: 13   batch_num: 160   item-loss: 0.0034603048115968704
+Epoch_num: 13   batch_num: 180   item-loss: 0.0017651462694630027
+Epoch_num: 13   batch_num: 200   item-loss: 0.059004005044698715
+Epoch_num: 13   batch_num: 220   item-loss: 0.0011598243145272136
+Epoch_num: 13   batch_num: 240   item-loss: 0.0010798528091982007
+Epoch_num: 13   batch_num: 260   item-loss: 0.0072604697197675705
+Epoch_num: 13   batch_num: 280   item-loss: 0.008647583425045013
+Epoch_num: 13   batch_num: 300   item-loss: 0.008885555900633335
+Epoch_num: 13   batch_num: 320   item-loss: 0.03772440552711487
+Epoch_num: 13   batch_num: 340   item-loss: 0.03554600104689598
+Epoch_num: 13   batch_num: 360   item-loss: 0.0053475648164749146
+Epoch_num: 13   batch_num: 380   item-loss: 0.0018374971114099026
+Epoch_num: 13   batch_num: 400   item-loss: 0.009970955550670624
+Epoch_num: 13   batch_num: 420   item-loss: 0.00800868310034275
+Epoch_num: 13   batch_num: 440   item-loss: 0.03512759134173393
+Epoch_num: 13   batch_num: 460   item-loss: 0.011544320732355118
+Epoch_num: 13   batch_num: 480   item-loss: 0.0012484060134738684
+Epoch_num: 13   training-mean-loss: 0.01679458748518664
+Epoch_num: 13   test_acc: 0.8923
+Epoch_num: 14   batch_num: 0   item-loss: 0.0006280408124439418
+Epoch_num: 14   batch_num: 20   item-loss: 0.004670310765504837
+Epoch_num: 14   batch_num: 40   item-loss: 0.017800772562623024
+Epoch_num: 14   batch_num: 60   item-loss: 0.0008524497388862073
+Epoch_num: 14   batch_num: 80   item-loss: 9.883605525828898e-05
+Epoch_num: 14   batch_num: 100   item-loss: 0.013092069886624813
+Epoch_num: 14   batch_num: 120   item-loss: 0.0011197873391211033
+Epoch_num: 14   batch_num: 140   item-loss: 0.0011813631281256676
+Epoch_num: 14   batch_num: 160   item-loss: 0.008159305900335312
+Epoch_num: 14   batch_num: 180   item-loss: 0.001294112647883594
+Epoch_num: 14   batch_num: 200   item-loss: 0.00454325694590807
+Epoch_num: 14   batch_num: 220   item-loss: 0.030431730672717094
+Epoch_num: 14   batch_num: 240   item-loss: 0.0008269299287348986
+Epoch_num: 14   batch_num: 260   item-loss: 0.005655481014400721
+Epoch_num: 14   batch_num: 280   item-loss: 0.014439497143030167
+Epoch_num: 14   batch_num: 300   item-loss: 0.0021260580979287624
+Epoch_num: 14   batch_num: 320   item-loss: 0.0019114300375804305
+Epoch_num: 14   batch_num: 340   item-loss: 0.0050928969867527485
+Epoch_num: 14   batch_num: 360   item-loss: 0.005844533443450928
+Epoch_num: 14   batch_num: 380   item-loss: 0.032417308539152145
+Epoch_num: 14   batch_num: 400   item-loss: 0.042952653020620346
+Epoch_num: 14   batch_num: 420   item-loss: 0.0002933772630058229
+Epoch_num: 14   batch_num: 440   item-loss: 0.0003479344886727631
+Epoch_num: 14   batch_num: 460   item-loss: 0.003923065960407257
+Epoch_num: 14   batch_num: 480   item-loss: 0.10118800401687622
+Epoch_num: 14   training-mean-loss: 0.01482386139443406
+Epoch_num: 14   test_acc: 0.8814
